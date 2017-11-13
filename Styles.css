@@ -1,0 +1,18 @@
+body {background-color: teal}
+
+p {color: white;}
+h1 {color: purple; text-transform: uppercase;}
+h2.orange {color: orange;}
+h1, h2 {font family: Arial}
+
+.list li {color: white;}
+.title {color: black; font-family: cursive; text-decoration: underline;}
+
+.image {
+border: 6px purple solid;
+margin: 40px;
+padding: 10px;}
+
+.image:hover {border: 6px purple solid;}
+
+#xy {text-transform: capitalize;}
