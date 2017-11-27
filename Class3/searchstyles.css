@@ -1,0 +1,27 @@
+.hamster {top: 50px;
+width: 400px;
+height: 350px;
+background-color: #f0a069;
+margin: 0 auto;
+position: static;}
+
+.picture {width: 300px;
+margin: 50px;}
+
+.Title {margin: 0 auto;
+top: 15px;
+text-align: center;
+position: relative;
+}
+
+h1, h2 {color: #673e22;
+letter-spacing: -1px;
+text-shadow: 3px 2px #d09165;
+text-align: center}
+
+.search {margin: 50px;
+text-align: center;}
+
+#help {text-align: right; margin: 10px 640px 0 auto; display: block;}
+
+.hidden {display: hidden}
