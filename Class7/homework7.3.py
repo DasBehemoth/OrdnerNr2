@@ -3,13 +3,15 @@ print ""
 
 secret=42
 
-guess = int(raw_input("Please enter a number between 1 and 100: "))
+while True:
+  guess = int(raw_input("Please enter a number between 1 and 100: "))
 
-if guess == secret:
+  if guess == secret:
 
     print "Congratulations!"
+    break
 
-else:
+  else:
     print ""
     print "You entered " + str(guess)
     print "Sorry, this is the wrong number, try again"
