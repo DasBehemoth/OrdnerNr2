@@ -14,4 +14,3 @@ while True:
                 print number
             else:
                 print "Sorry, you didn't enter a number between 1 and 100, try again!"
-
