@@ -1,0 +1,28 @@
+{% extends "frame.html" %}
+
+{% block title %} Lottery Game {% endblock title %}
+
+{% block page_content %}
+<h3> My Lotto Numbers: {{site_my_lotto}}</h3>
+
+<br><br>
+<h3>Don't have money to by a lottery ticket? Guess the secret number and win a crotchet animal!</h3>
+
+    {% if is_guessed %}
+      <h3> Congratulations! The secret number is {{number}}</h3>
+    {% else %}
+      {% if has_guessed %}
+    <h3> Sorry you guessed wrong! </h3>
+      {% endif %}
+      <h2> Guess the secret number</h2>
+
+      <form method="post">
+
+        <input placeholder="number" type="number" name="number">
+         <button type="submit">Submit Number</button></form>
+
+    {% endif %}
+
+
+
+{% endblock page_content %}

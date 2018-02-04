@@ -1,0 +1,26 @@
+{% extends "frame.html" %}
+
+{% block title %} Hello {% endblock title %}
+
+{% block page_content %}
+
+<h1>Hello</h1>
+
+<form method="post">
+
+    <input placeholder="message" type="text" name="message">
+    <button type="submit">Submit</button>
+</form>
+
+<ul>
+{% for message in my_messages %}
+    <li>{{message}}</li>
+
+
+{% endfor %}
+    </ul>
+
+
+<h2>Messages: {{my_messages}}</h2>´
+
+{% endblock page_content %}

@@ -2,31 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e36a19d9-1760-4d78-990c-dfce9224b04c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/10.2. Guess the secret number update.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example 1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example3 test kalk.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example4 test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class10/example6.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class11/example 1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class11/example2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class11/example3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class12/10.3Lottery.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class12/extender.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class12/repetition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/13.1 Save more data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/13.2 Quotes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/Game of Thrones.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/Scrape.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/example 3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class13/example2_soup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class8/8.2 Fizz Buzz version 2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class8/8.2 FizzBuzz.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Class9/9.2 Restaurant Menu.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Bettina.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Class11/11.1.Contacts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Class11/11.2.Vehicles.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/app.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/aboutme.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/contact.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/frame.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/lotto.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/shop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/spiritanimal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Project_Homework!/templates/startseite.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/app.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/main.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/model.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/blog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/edit_message.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/frame.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/hello.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/lotto.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/real_blog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/shopping_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Projekt!/templates/sng.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Class7/blindschleiche.py" afterPath="$PROJECT_DIR$/Class7/blindschleiche.py" />
+      <change beforePath="$PROJECT_DIR$/Class13/13.2 Quotes.py" afterPath="$PROJECT_DIR$/Class13/13.2 Quotes.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,114 +40,103 @@
     <favorites_list name="untitled" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="10.3Lottery.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class12/10.3Lottery.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example2_soup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/example2_soup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="extender.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class12/extender.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="repetition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class12/repetition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.2 Quotes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/13.2 Quotes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeautifulSoup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/BeautifulSoup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.1 Save more data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/13.1 Save more data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game of Thrones.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/Game of Thrones.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example 3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class13/example 3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.63720214">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="startseite.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/startseite.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="95">
+                  <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="830">
+                  <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#22#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Projekt!/templates/blog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Project_Homework!/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#22#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Project_Homework!/model.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="realblog.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/realblog.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="250">
+                  <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="edit_message.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/edit_message.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-89">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,40 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Styles.css" />
-        <option value="$PROJECT_DIR$/../Derneueordner/SNWD_201711/Class1/mysite.html" />
-        <option value="$PROJECT_DIR$/Class3/Boogle.html" />
-        <option value="$PROJECT_DIR$/Class3/searchstyles.css" />
-        <option value="$PROJECT_DIR$/Class3/Search.html" />
-        <option value="$PROJECT_DIR$/Class5/bootstrap.css" />
-        <option value="$PROJECT_DIR$/Class7/snake.py" />
-        <option value="$PROJECT_DIR$/Class3/booglestyles.css" />
-        <option value="$PROJECT_DIR$/Class7/Blindschleiche.py" />
-        <option value="$PROJECT_DIR$/Class7/Blindschleiche_integer.py" />
-        <option value="$PROJECT_DIR$/Class7/operations_bools.py" />
-        <option value="$PROJECT_DIR$/Class7/operations_strings.py" />
-        <option value="$PROJECT_DIR$/Class7/strings.py" />
-        <option value="$PROJECT_DIR$/Class7/in.py" />
-        <option value="$PROJECT_DIR$/Class7/calculator.py" />
-        <option value="$PROJECT_DIR$/Class5/boots2.css" />
-        <option value="$PROJECT_DIR$/Class5/boots.html" />
-        <option value="$PROJECT_DIR$/Class/Stunde8.py" />
-        <option value="$PROJECT_DIR$/Class7/homework7.3.py" />
-        <option value="$PROJECT_DIR$/Class8/Stunde8.py" />
-        <option value="$PROJECT_DIR$/Class8/loopy.py" />
-        <option value="$PROJECT_DIR$/Class8/yuye example.py" />
-        <option value="$PROJECT_DIR$/Class8/dictionaries.py" />
-        <option value="$PROJECT_DIR$/Class8/dictionaries higher.py" />
-        <option value="$PROJECT_DIR$/Class8/capitalsGame.py" />
-        <option value="$PROJECT_DIR$/Class8/8.1 Unit Converter.py" />
-        <option value="$PROJECT_DIR$/Class8/8.3 Lower Case.py" />
-        <option value="$PROJECT_DIR$/Class10/example 1.py" />
-        <option value="$PROJECT_DIR$/Class10/example 2.py" />
-        <option value="$PROJECT_DIR$/Class10/example3 test kalk.py" />
-        <option value="$PROJECT_DIR$/Class10/example4 test.py" />
-        <option value="$PROJECT_DIR$/Class10/example5.py" />
-        <option value="$PROJECT_DIR$/Class10/example6.py" />
-        <option value="$PROJECT_DIR$/Class11/example 1.py" />
         <option value="$PROJECT_DIR$/Class11/example2.py" />
         <option value="$PROJECT_DIR$/Class11/example3.py" />
         <option value="$PROJECT_DIR$/Class12/wiederholung.py" />
@@ -202,19 +158,55 @@
         <option value="$PROJECT_DIR$/Class9/9.2 Restaurant Menu.py" />
         <option value="$PROJECT_DIR$/Class10/10.2. Guess the secret number update.py" />
         <option value="$PROJECT_DIR$/Class13/example2_soup.py" />
-        <option value="$PROJECT_DIR$/Class13/13.2 Quotes.py" />
         <option value="$PROJECT_DIR$/Class13/13.1 Save more data.py" />
         <option value="$PROJECT_DIR$/Class13/Game of Thrones.py" />
+        <option value="$PROJECT_DIR$/Class15.py" />
+        <option value="$PROJECT_DIR$/Class13/13.2 Quotes.py" />
+        <option value="$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/templates/hello.html" />
+        <option value="$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/start.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/wordoftheday.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/word.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/faq.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/capitals.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/shopping_list.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/hello.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/sng.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/blog.html" />
+        <option value="$PROJECT_DIR$/Projekt!/model.py" />
+        <option value="$PROJECT_DIR$/Class11/11.2 Contacts.py" />
+        <option value="$PROJECT_DIR$/Class11/11.2.Contacts.py" />
+        <option value="$PROJECT_DIR$/Class11/11.2.Vehicles.html" />
+        <option value="$PROJECT_DIR$/Class11/11.2.Vehicles.py" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/animal.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/spiritanimal.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/Contact.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/aboutme.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/frame.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/frame.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/shop.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/lotto.html" />
+        <option value="$PROJECT_DIR$/Projekt!/main.py" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/edit_message.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/lotto.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/contact.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/sng_template.html" />
+        <option value="$PROJECT_DIR$/Projekt!/templates/real_blog.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/main.py" />
+        <option value="$PROJECT_DIR$/Project_Homework!/templates/startseite.html" />
+        <option value="$PROJECT_DIR$/Project_Homework!/model.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="192" />
-    <option name="y" value="601" />
-    <option name="width" value="1292" />
-    <option name="height" value="469" />
+    <option name="x" value="435" />
+    <option name="y" value="205" />
+    <option name="width" value="933" />
+    <option name="height" value="566" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -230,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,37 +239,37 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class7" type="462c0819:PsiDirectoryNode" />
+              <item name="Class5" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class8" type="462c0819:PsiDirectoryNode" />
+              <item name="Project_Homework!" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class9" type="462c0819:PsiDirectoryNode" />
+              <item name="Project_Homework!" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class10" type="462c0819:PsiDirectoryNode" />
+              <item name="SNWD_201711" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class11" type="462c0819:PsiDirectoryNode" />
+              <item name="SNWD_201711" type="462c0819:PsiDirectoryNode" />
+              <item name="Smartninja_project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Class13" type="462c0819:PsiDirectoryNode" />
+              <item name="SNWD_201711" type="462c0819:PsiDirectoryNode" />
+              <item name="Smartninja_project" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
@@ -285,8 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,6 +288,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bettina\PycharmProjects\untitled\Project_Homework!" />
+      <recent name="C:\Users\Bettina\PycharmProjects\untitled\Projekt!" />
       <recent name="C:\Users\Bettina\PycharmProjects\untitled\Class5\JS" />
     </key>
   </component>
@@ -311,111 +305,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Game of Thrones">
-    <configuration name="10.2. Guess the secret number update" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="11.2.Contacts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class10/10.2. Guess the secret number update.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bettina\PycharmProjects\untitled\Class11\11.1.Contacts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.1 Save more data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.2.Vehicles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class13/13.1 Save more data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class11/11.2.Vehicles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.2 Quotes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.2 Fizz Buzz version 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class13/13.2 Quotes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class8/8.2 Fizz Buzz version 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Game of Thrones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8.2 FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class13/Game of Thrones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class8/8.2 FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="example2_soup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_Homework!" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class13/example2_soup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_Homework!/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.10.2. Guess the secret number update" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13.2 Quotes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.example2_soup" />
-      <item index="3" class="java.lang.String" itemvalue="Python.13.1 Save more data" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Game of Thrones" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8.2 Fizz Buzz version 2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8.2 FizzBuzz" />
+      <item index="2" class="java.lang.String" itemvalue="Python.11.2.Contacts" />
+      <item index="3" class="java.lang.String" itemvalue="Python.11.2.Vehicles" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Game of Thrones" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13.1 Save more data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13.2 Quotes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.example2_soup" />
-        <item index="4" class="java.lang.String" itemvalue="Python.10.2. Guess the secret number update" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.11.2.Vehicles" />
+        <item index="2" class="java.lang.String" itemvalue="Python.11.2.Contacts" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8.2 FizzBuzz" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8.2 Fizz Buzz version 2" />
       </list>
     </recent_temporary>
   </component>
@@ -446,18 +440,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2279924" sideWeight="0.49247313" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1760608" sideWeight="0.49247313" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37331536" sideWeight="0.50474983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37331536" sideWeight="0.49525017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37331536" sideWeight="0.49525017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24952501" sideWeight="0.49460918" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2279924" sideWeight="0.5075269" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3773585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.4977834" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2279924" sideWeight="0.5075269" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -476,9 +469,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37331536" sideWeight="0.49525017" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2279924" sideWeight="0.49247313" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37331536" sideWeight="0.49525017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26549864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22102596" sideWeight="0.49247313" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24952501" sideWeight="0.49460918" order="1" side_tool="false" content_ui="tabs" />
@@ -525,349 +518,236 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/einszweidrei.html">
+    <entry file="file://$PROJECT_DIR$/Class13/13.2 Quotes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
+        <state relative-caret-position="119">
+          <caret line="9" column="58" lean-forward="false" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class3/Search.html" />
-    <entry file="file://$PROJECT_DIR$/Class7/snake.py" />
-    <entry file="file://$PROJECT_DIR$/Homework3.4/searchstyles.css" />
-    <entry file="file://$PROJECT_DIR$/Homework3.4/Search.html" />
-    <entry file="file://$PROJECT_DIR$/Class5/JS/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class5/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class3/Boogle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class3/booglestyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/operations_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class5/boots2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class5/boots.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1460">
-          <caret line="190" column="41" lean-forward="false" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/operations_integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/operations_bools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/dictionaries higher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/loopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/capitalsGame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/8.3 Lower Case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="21" column="83" lean-forward="false" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example4 test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" column="148" lean-forward="false" selection-start-line="3" selection-start-column="148" selection-end-line="3" selection-end-column="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class11/example 1.py">
+    <entry file="file://$PROJECT_DIR$/Projekt!/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="21" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class11/example2.py">
+    <entry file="file://$PROJECT_DIR$/Class15/jinja-basic-gae-project-master/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class11/example3.py">
+    <entry file="file://$PROJECT_DIR$/Class12/10.3Lottery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/Stunde8.py">
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/faq.html" />
+    <entry file="file://$PROJECT_DIR$/Class8/8.2 Fizz Buzz version 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="38" column="57" lean-forward="false" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/yuye example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/Scrape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class8/8.2 FizzBuzz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class7/blindschleiche.py">
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/8.2 Fizz Buzz version 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="86" lean-forward="true" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/example3 test kalk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class8/8.1 Unit Converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class5/boots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/shopping_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class11/11.2.Vehicles.html" />
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/word.html" />
+    <entry file="file://$PROJECT_DIR$/Class11/11.1.Contacts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/spiritanimal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class11/11.2.Vehicles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class7/homework7.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class10/10.2. Guess the secret number update.py">
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="37" column="79" lean-forward="false" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
-          <folding />
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class9/9.2 Restaurant Menu.py">
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/sng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="26" column="81" lean-forward="false" selection-start-line="26" selection-start-column="81" selection-end-line="26" selection-end-column="81" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/13.2 Quotes.py">
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/frame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1122">
+          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class12/extender.py">
+    <entry file="file://$PROJECT_DIR$/Class7/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/example2_soup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/13.1 Save more data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class13/Game of Thrones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="204">
           <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/example 3.py">
+    <entry file="file://$PROJECT_DIR$/Class8/8.1 Unit Converter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class13/BeautifulSoup.py">
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/lotto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smartninja_project/templates/realblog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="36" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smartninja_project/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="88" column="15" lean-forward="false" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/edit_message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -875,18 +755,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class12/repetition.py">
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/lotto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class12/10.3Lottery.py">
+    <entry file="file://$PROJECT_DIR$/Class10/10.2. Guess the secret number update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
+        <state relative-caret-position="-154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/sng.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/lotto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/sng_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="1682" column="0" lean-forward="false" selection-start-line="1682" selection-start-column="0" selection-end-line="1682" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projekt!/templates/real_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/realblog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/templates/edit_message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SNWD_201711/Smartninja_project/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/templates/startseite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project_Homework!/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

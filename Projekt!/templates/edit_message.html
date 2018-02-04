@@ -1,0 +1,30 @@
+{% extends "frame.html" %}
+
+{% block title %} Hello {% endblock title %}
+
+{% block page_content %}
+<h1> Edit Message</h1>
+
+<form method="post" action="/message/{{message.key.id()}}edit">
+    <div class="input-group">
+  <span class="input-group-addon">Name</span>
+  <input type="text" placeholder="Name" name="name">
+</div>
+    <div class="input-group">
+  <span class="input-group-addon">Message</span>
+  <input type="text" name="message">
+</div>
+    <button type="submit">Submit</button>
+</form>
+
+{% for message in messages %}
+<div class="panel panel-info">
+    <div class="panel-heading">{{ message.name }}<a href="/message/{{ message.key.id() }}/edit"></a></h3>
+  </div>
+    <div class="panel-body">
+        {{ message.message_text }}
+    </div>
+</div>
+
+
+{% endblock page_content %}

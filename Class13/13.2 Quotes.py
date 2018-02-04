@@ -8,7 +8,8 @@ if __name__=='__main__':
     response = urllib2.urlopen(url).read()
     soup = BS.BeautifulSoup(response)
     quotes = soup.findAll(attrs={"class": "quoteContent"})
-    slice= random.sample(quotes,5)
+
+    slice = random.sample(quotes, 5)
 
     for x in slice:
-        print x.text # Urspruenglich damit probiert: soup.div.findAll(attrs={"class": "quoteContent"})[0:].string bzw. .text hat aber alles nicht funktioniert, warum?
+        print x.text  # Urspruenglich damit probiert: soup.div.findAll(attrs={"class": "quoteContent"})[0].string bzw. .text hat aber alles nicht funktioniert, warum? Geht nur bei einem element, sonst ist es liste

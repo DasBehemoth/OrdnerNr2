@@ -1,0 +1,28 @@
+   def get(self):
+        messages = model.Message.query().fetch()
+        return self.render_template("contact.html", params={"messages": messages})
+
+    def post(self):
+        name = self.request.get("name")
+        message_text = self.request.get("message_text")
+        message = model.Message(message_text=message_text, name=name)
+        message.put()
+        return self.redirect_to("contact.html")
+
+
+   <div class="container-fluid">
+    <div class="input_fields">
+        <form method="post">
+            <div class="form-group">
+                <label for="usr">Name:</label>
+                <input type="text" placeholder="name" class="form-control" id="usr">
+            </div>
+            <div class="form-group">
+                <label for="pwd">Message:</label>
+                <input type="text" placeholder="Message" name="message_text" class="form-control" id="pwd">
+
+            </div>
+            <button class="btn btn-info" type="submit">Submit</button>
+        </form>
+
+    </div> </div>

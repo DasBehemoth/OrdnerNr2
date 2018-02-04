@@ -1,0 +1,40 @@
+{% extends "frame.html" %}
+
+{% block title %} The Crochet Animal Blog {% endblock title %}
+
+{% block page_content %}
+
+<h3>Don't have money for buying crotchet animals? Jump your magic jump and win the lottery with our lucky numbers: </h3>
+
+ <a href="/lotto">
+        <button type="button" class="btn btn-success">My Numbers</button>
+</a>
+
+<br><br>
+
+<div class="container-fluid">
+        <form method="post">
+            <div class="input-group">
+            <span class="input-group-addon"> Name </span>
+                <input type="text" placeholder="Name" name="name"></div>
+            <div class="input-group">
+                <span class="input-group-addon"> E-Mail </span>
+                <input type="text" placeholder="e-mail" name="email"> </div>
+
+            <div class="input-group">
+                <span class="input-group-addon"> Message </span>
+                <input type="text" placeholder="Message" name="message_text"></div>
+
+            <button class="btn btn-info" type="submit">Submit</button> </form> </div> <br>
+
+{% for message in messages %}
+<ul class="list-group">
+    <li class="list-group-item list-group-item-success">{{ message.name }}  </li>
+    <li class="list-group-item list-group-item-warning">{{ message.email }}</li>
+    <li class="list-group-item list-group-item-warning">{{ message.message_text }}</li>
+    </ul>
+
+{% endfor %}
+
+
+{% endblock page_content %}
