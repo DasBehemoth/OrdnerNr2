@@ -1,0 +1,31 @@
+{% extends "frame.html" %}
+
+{% block title %} Edit Message {% endblock title %}
+
+
+{% block page_content %}
+
+<h1>Delete Blog Message</h1>
+
+<div class="container-fluid">
+    <div class="input_fields">
+        <h2>Do you really want to delete this message</h2>
+        <form method="post" action="/message/{{message.key.id()}}/delete">
+            <div class="form-group">
+                <label for="usr">Name:</label>
+                <input type="text" name="name" class="form-control" id="usr" value="{{message.name}}" disabled>
+            </div>
+            <div class="form-group">
+            <label for="email">E-Mail:</label>
+                <input type="text" name="name" class="form-control" id="email" value="{{message.email}}" disabled>
+            </div>
+            <div class="form-group">
+                <label for="pwd">Message:</label>
+                <input type="text" name="message_text" class="form-control" id="pwd" value="{{message.message_text}}" disabled>
+            </div>
+            <button class="btn btn-danger" type="submit">Delete</button>
+        </form>
+    </div>
+</div>
+
+{% endblock page_content %}

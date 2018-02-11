@@ -29,7 +29,7 @@
 
 {% for message in messages %}
 <ul class="list-group">
-    <li class="list-group-item list-group-item-success">{{ message.name }}  </li>
+    <li class="list-group-item list-group-item-success">{{ message.name }}  <a href="/message/{{ message.key.id() }}/edit">Edit</a> <a href="/message/{{ message.key.id() }}/delete">Delete</a> </li>
     <li class="list-group-item list-group-item-warning">{{ message.email }}</li>
     <li class="list-group-item list-group-item-warning">{{ message.message_text }}</li>
     </ul>

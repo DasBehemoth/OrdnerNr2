@@ -1,0 +1,42 @@
+{% extends "frame.html" %}
+
+{% block title %} The Real Blog {% endblock title %}
+
+
+{% block page_content %}
+
+<h1>Real Blog Page</h1>
+
+
+<div class="container-fluid">
+    <div class="input_fields">
+        <h2>Form control: input</h2>
+        <p>The form below contains two input elements; one of type text and one of type password:</p>
+        <form method="post">
+            <div class="form-group">
+                <label for="usr">Name:</label>
+                <input type="text" placeholder="Name" name="name" class="form-control" id="usr">
+            </div>
+            <div class="form-group">
+                <label for="pwd">Message:</label>
+                <input type="text" placeholder="Message" name="message_text" class="form-control" id="pwd">
+            </div>
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
+</div>
+
+<br>
+
+{% for message in messages %}
+<div class="panel panel-info">
+    <div class="panel-heading">{{ message.name }} <a href="/message/{{ message.key.id() }}/edit">Edit</a> <a href="/message/{{ message.key.id() }}/delete">Delete</a> </div>
+    <div class="panel-body">
+        {{ message.message_text }}
+    </div>
+</div>
+{% endfor %}
+
+
+
+{% endblock page_content %}

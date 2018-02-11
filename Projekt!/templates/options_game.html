@@ -1,0 +1,30 @@
+{% extends "frame.html" %}
+
+{% block title %} SNWD201711 {% endblock title %}
+
+
+{% block page_content %}
+
+    <h1>Willkommen zu wer wird Millionär</h1>
+
+    <h2>antworte A,B,C oder D</h2>
+
+    <form method="post">
+        <button type="submit" value="A" name="answer"> A </button>
+    </form>
+
+    <form method="post">
+        <button type="submit" value="B" name="answer"> B </button>
+    </form>
+
+    <form method="post">
+        <button type="submit" value="C" name="answer"> C </button>
+    </form>
+
+    <form method="post">
+        <button type="submit" value="D" name="answer"> D </button>
+    </form>
+
+    <h5>You pressed {{answer}}</h5>
+
+{% endblock page_content %}
